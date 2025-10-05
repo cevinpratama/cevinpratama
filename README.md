@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.instagram.com/cevinsundoraa/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="cevinsundoraa" /></a>
-  <a href="https://www.linkedin.com/in/username-linkedin-anda/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="username-linkedin-anda" /></a>
+  <a href="https://www.linkedin.com/in/cevin-pratama-sundora-3930192ab/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="cevin pratama sundora" /></a>
 </p>
 
 ---
