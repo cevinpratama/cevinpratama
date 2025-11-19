@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cevin Pratama</h1>
+<h1 align="center">Hi, I'm Cevin Pratama</h1>
 <h3 align="center">A Mobile Developer & AI Enthusiast from Indonesia 🇮🇩</h3>
 
 <p align="center">
@@ -10,9 +10,9 @@
 
 I'm currently diving deep into **Computer Vision**, **Mobile Programming**, and the **Internet of Things (IoT)**, building projects that integrate these exciting fields. I am actively seeking new opportunities to apply my skills and collaborate with talented teams.
 
-- 🤖 **AI Expertise:** `Machine Learning`, `Deep Learning`, `Computer Vision`, `YOLO`
-- 📱 **Mobile Expertise:** `Android (Kotlin)`
-- 🔌 **Also Active In:** `Internet of Things (IoT)`
+-  **AI Expertise:** `Machine Learning`, `Deep Learning`, `Computer Vision`, `YOLO`,`LLM`,`RAG`
+-  **Mobile Expertise:** `Android (Kotlin)`,`Jetpack Compose`
+-  **Also Active In:** `Internet of Things (IoT)`
 
 Feel free to explore my repositories below. If you have any exciting ideas or opportunities, let's connect!
 
@@ -25,7 +25,6 @@ Feel free to explore my repositories below. If you have any exciting ideas or op
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
- <a href="https://ultralytics.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo-social.png" alt="yolo" width="40" height="40"/> </a>
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry pi" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
