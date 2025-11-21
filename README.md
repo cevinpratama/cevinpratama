@@ -16,7 +16,7 @@ I'm currently diving deep into **Computer Vision**, **Mobile Programming**, and 
 
 Feel free to explore my repositories below. If you have any exciting ideas or opportunities, let's connect!
 
-### 🛠️ My Skills
+### My Skills
 
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
@@ -29,7 +29,7 @@ Feel free to explore my repositories below. If you have any exciting ideas or op
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-### 📊 My GitHub Stats
+### My GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cevinpratama&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
